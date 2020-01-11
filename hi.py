@@ -1,1 +1,1 @@
-print("This is shop")
+print("This is shop for test")
